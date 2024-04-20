@@ -1,6 +1,6 @@
 {
   "name": "zotero-folder-map",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Folder Map",
   "scripts": {
     "lint": "eslint . --ext .ts --cache --cache-location .eslintcache/",
