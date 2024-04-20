@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Folder Map for Zotero",
+  "version": "0.0.1.amcga.alec_lap",
+  "description": "Folder Map",
+  "applications": {
+    "zotero": {
+      "id": "folder-map@gmail.com",
+      "update_url": "https://github.com/amcgail/zotero-folder-map/releases/download/release/updates.json",
+      "strict_min_version": "6.999",
+      "strict_max_version": "7.0.*"
+    }
+  }
+}

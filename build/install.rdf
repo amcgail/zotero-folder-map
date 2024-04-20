@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:name>Folder Map for Zotero</em:name>
+    <em:description>Folder Map</em:description>
+    <em:bootstrap>true</em:bootstrap>
+    <em:id>folder-map@gmail.com</em:id>
+    <em:version>0.0.1.amcga.alec_lap</em:version>
+    <em:homepageURL>https://github.com/amcgail/zotero-folder-map</em:homepageURL>
+    <em:creator>Alec McGail</em:creator>
+    <em:updateURL>https://github.com/amcgail/zotero-folder-map/releases/download/release/update.rdf</em:updateURL>
+    <em:type>2</em:type>
+    <em:targetApplication>
+      <Description>
+        <em:id>zotero@chnm.gmu.edu</em:id>
+        <em:minVersion>5.0.79</em:minVersion>
+        <em:maxVersion>6.0.*</em:maxVersion>
+      </Description>
+      <Description>
+        <em:id>juris-m@juris-m.github.io</em:id>
+        <em:minVersion>5.0.79</em:minVersion>
+        <em:maxVersion>6.0.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>

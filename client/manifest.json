@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Folder Map",
+  "version": "0.0.1",
+  "description": "Folder Map",
+  "applications": {
+    "zotero": {
+      "id": "zotero-folder-map@alecmcgail.com",
+      "update_url": "https://github.com/amcgail/zotero-folder-map/releases/download/release/update.rdf",
+      "strict_min_version": "6.999",
+      "strict_max_version": "7.0.*"
+    }
+  }
+}

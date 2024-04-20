@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "folder-map@gmail.com": {
+      "updates": [
+        {
+          "version": "0.0.1.amcga.alec_lap",
+          "update_link": "https://github.com/amcgail/zotero-folder-map/releases/download/v0.0.1.amcga.alec_lap/zotero-folder-map-0.0.1.amcga.alec_lap.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
