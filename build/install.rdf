@@ -5,7 +5,7 @@
     <em:description>Folder Map</em:description>
     <em:bootstrap>true</em:bootstrap>
     <em:id>folder-map@gmail.com</em:id>
-    <em:version>0.0.1.amcga.alec_lap</em:version>
+    <em:version>0.0.3.amcga.alec_lap</em:version>
     <em:homepageURL>https://github.com/amcgail/zotero-folder-map</em:homepageURL>
     <em:creator>Alec McGail</em:creator>
     <em:updateURL>https://github.com/amcgail/zotero-folder-map/releases/download/release/update.rdf</em:updateURL>

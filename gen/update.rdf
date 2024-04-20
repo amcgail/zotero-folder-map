@@ -5,13 +5,13 @@
       <RDF:Seq>
         <RDF:li>
           <RDF:Description>
-            <em:version>0.0.1.amcga.alec_lap</em:version>
+            <em:version>0.0.3.amcga.alec_lap</em:version>
             <em:targetApplication>
               <RDF:Description>
                 <em:id>zotero@chnm.gmu.edu</em:id>
                 <em:minVersion>5.0</em:minVersion>
                 <em:maxVersion>6.0.*</em:maxVersion>
-                <em:updateLink>https://github.com/amcgail/zotero-folder-map/releases/download/v0.0.1.amcga.alec_lap/zotero-folder-map-0.0.1.amcga.alec_lap.xpi</em:updateLink>
+                <em:updateLink>https://github.com/amcgail/zotero-folder-map/releases/download/v0.0.3.amcga.alec_lap/zotero-folder-map-0.0.3.amcga.alec_lap.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
             <em:targetApplication>
@@ -19,7 +19,7 @@
                 <em:id>juris-m@juris-m.github.io</em:id>
                 <em:minVersion>5.0</em:minVersion>
                 <em:maxVersion>6.0.*</em:maxVersion>
-                <em:updateLink>https://github.com/amcgail/zotero-folder-map/releases/download/v0.0.1.amcga.alec_lap/zotero-folder-map-0.0.1.amcga.alec_lap.xpi</em:updateLink>
+                <em:updateLink>https://github.com/amcgail/zotero-folder-map/releases/download/v0.0.3.amcga.alec_lap/zotero-folder-map-0.0.3.amcga.alec_lap.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
           </RDF:Description>
